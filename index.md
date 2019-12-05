@@ -1,8 +1,3 @@
-<!DOCTYPE html>
-<html>
-<title>Angel Angeles | arctus.io</title>
-
-<xmp theme="simplex" style="display:none;">
 ## Work in Progress...
 
 ```
@@ -21,8 +16,3 @@ linux + security + code = me
   "email:": "angel@arctus.io"
 }
 ```
-
-</xmp>
-
-<script src="https://strapdownjs.com/v/0.2/strapdown.js"></script>
-</html>
